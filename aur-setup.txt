@@ -1,0 +1,3 @@
+https://aur.archlinux.org/yaourt.git -- yoaurt AUR package manager (it's just as easy to use makepkg but just in case we want to be lazy)
+
+https://aur.archlinux.org/polybar.git -- polybar cause i3 bar just because I like it more than default i3 bar
